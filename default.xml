@@ -46,9 +46,9 @@
                   <!-- motorola device repos -->
 
   <project path="device/motorola/xt907" name="slogar25/android_device_motorola_xt907" remote="github" revision="omni-44" />
-  <project path="device/motorola/msm8960-common" name="CyanogenMod/android_device_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
-  <project path="device/motorola/qcom-common" name="CyanogenMod/android_device_motorola_qcom-common" remote="cm" revision="cm-11.0" />
-  <project path="kernel/motorola/msm8960-common" name="CyanogenMod/android_kernel_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
+  <project path="device/motorola/msm8960-common" name="android_device_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
+  <project path="device/motorola/qcom-common" name="android_device_motorola_qcom-common" remote="cm" revision="cm-11.0" />
+  <project path="kernel/motorola/msm8960-common" name="android_kernel_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
   
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
