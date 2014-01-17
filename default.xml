@@ -47,8 +47,10 @@
 
   <project path="device/motorola/xt907" name="slogar25/android_device_motorola_xt907" remote="github" revision="omni-44" />
   <project path="device/motorola/msm8960-common" name="android_device_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
-  <project path="device/motorola/qcom-common" name="android_device_motorola_qcom-common" remote="cm" revision="cm-11.0" />
-  <project path="kernel/motorola/msm8960-common" name="android_kernel_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
+  <project path="device/motorola/qcom-common" name="slogar25/android_device_motorola_qcom-common" remote="github" revision="omni-44" />
+  <project path="kernel/motorola/msm8960-common" name="slogar25/android_kernel_motorola_msm8960-common" remote="github" revision="omni-44" />
+
+                  <!-- end motorola device repos -->
   
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
@@ -462,7 +464,7 @@
 
                        <!-- device vendors -->
 
-  <project path="vendor/cm" name="android_vendor_cm" remote="cm" revision="cm-11.0" />
+  <project path="vendor/cm" name="slogar25/android_vendor_cm" remote="github" revision="omni-44" />
   <project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-4.4" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-11.0" />
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-4.4" />
