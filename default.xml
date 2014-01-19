@@ -297,27 +297,27 @@
                        <!-- CyanogenMod Hardware -->
 
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="cm" revision="cm-11.0" />
-  <project path="hardware/broadcom/wlan" name="android/hardware/broadcom/wlan" remote="cm" revision="cm-11.0" groups="broadcom_wlan" />
-  <project path="hardware/invensense" name="android/hardware/invensense" remote="cm" revision="cm-11.0" groups="invensense" />
+  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="cm" revision="cm-11.0" groups="broadcom_wlan" />
+  <project path="hardware/invensense" name="android_hardware_invensense" remote="cm" revision="cm-11.0" groups="invensense" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="cm-11.0" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/bt" name="android/hardware/qcom/bt" remote="cm" revision="cm-11.0" groups="qcom" />
-  <project path="hardware/qcom/camera" name="android/hardware/qcom/camera" remote="cm" revision="cm-11.0" groups="qcom" />
+  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="cm" revision="cm-11.0" groups="qcom" />
+  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/keymaster" name="android/hardware/qcom/keymaster" remote="cm" revision="cm-11.0" groups="qcom" />
+  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/media" name="slogar25/android_hardware_qcom_media" remote="github" revision="omni-44" />
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/msm8960" name="android/hardware/qcom/msm8960" remote="cm" revision="cm-11.0" groups="qcom_msm8960" />
-  <project path="hardware/qcom/msm8x74" name="android/hardware/qcom/msm8x74" remote="cm" revision="cm-11.0" groups="qcom_msm8x74" />
+  <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" remote="cm" revision="cm-11.0" groups="qcom_msm8960" />
+  <project path="hardware/qcom/msm8x74" name="android_hardware_qcom_msm8x74" remote="cm" revision="cm-11.0" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/sensors" name="android/hardware/qcom/sensors" remote="cm" revision="cm-11.0" groups="qcom" />
-  <project path="hardware/qcom/wlan" name="android/hardware/qcom/wlan" remote="cm" revision="cm-11.0" groups="qcom_wlan" />
+  <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="cm" revision="cm-11.0" groups="qcom" />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm" revision="cm-11.0" groups="qcom_wlan" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="cm-11.0" />
-  <project path="hardware/ti/wlan" name="android/hardware/ti/wlan" remote="cm" revision="cm-11.0" />
-  <project path="hardware/ti/wpan" name="android/hardware/ti/wpan" remote="cm" revision="cm-11.0" />
+  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="cm-11.0" />
+  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="cm" revision="cm-11.0" />
 
                      <!-- End CyanogenMod Hardware -->
 
@@ -361,7 +361,7 @@
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/PerformanceControl" name="android_packages_apps_PerformanceControl" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
