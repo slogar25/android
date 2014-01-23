@@ -294,7 +294,6 @@
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="hardware/akm" name="platform/hardware/akm" />
-  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="omnirom" revision="android-4.4" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="omnirom" revision="android-4.4" />
