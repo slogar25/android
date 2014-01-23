@@ -264,7 +264,7 @@
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" />
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="android_frameworks_av" remote="omnirom" revision="android-4.4" />
+  <project path="frameworks/av" name="slogar25/plaform_frameworks_av" remote="github" revision="omni-44" />
   <project path="frameworks/base" name="slogar25/android_frameworks_base" remote="github" revision="omni-44" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
@@ -308,9 +308,9 @@
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" />
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="omnirom" revision="android-4.4" />
+  <project path="hardware/qcom/display" name="slogar25/platform_hardware_qcom_display" remote="github" revision="omni-44" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom" />
+  <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/media" name="slogar25/android_hardware_qcom_media" remote="github" revision="omni-44" />
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" />
@@ -455,7 +455,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/core" name="android_system_core" remote="omnirom" revision="android-4.4" />
+  <project path="system/core" name="slogar25/platform_system_core" remote="github" revision="cm-11.0" />
   <project path="system/extras" name="android_system_extras" remote="omnirom" revision="android-4.4" />
   <project path="system/media" name="android_system_media" groups="pdk" remote="omnirom" revision="android-4.4" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
