@@ -51,7 +51,7 @@
 
   <project path="device/motorola/xt907" name="slogar25/android_device_motorola_xt907" remote="github" revision="omni-44" />
   <project path="device/motorola/msm8960-common" name="android_device_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
-  <project path="device/motorola/moto_msm8960" name="android_device_motorola_moto_msm8960" remote="cm" revision="cm-11.0" />
+  <project path="device/motorola/moto_msm8960" name="slogar25/android_device_motorola_moto_msm8960" remote="github" revision="omni-44" />
   <project path="device/motorola/qcom-common" name="android_device_motorola_qcom-common" remote="cm" revision="cm-11.0" />
   <project path="kernel/motorola/msm8960-common" name="android_kernel_motorola_msm8960-common" remote="cm" revision="cm-11.0" />
 
