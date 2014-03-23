@@ -459,7 +459,6 @@
 
                        <!-- device vendors -->
 
-  <project path="vendor/cm" name="slogar25/android_vendor_cm" remote="github" revision="omni-44" />
   <project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-4.4" />
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-11.0" />
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-4.4" />
