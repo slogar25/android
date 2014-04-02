@@ -25,9 +25,9 @@ Getting Started
 To get started with OMNI ROM, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the OMNIROM trees, use a command like this:
+To build Omnirom for Moto_msm8960 devices, use a command like this:
 
-    repo init -u git://github.com/omnirom/android.git -b <branch>
+    repo init -u git://github.com/slogar25/android.git -b <branch>
 
 Then to sync up:
 
